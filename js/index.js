@@ -1,0 +1,1 @@
+//changed .page-wrap { width: 960px } to { max-width: 960px } and now it's ~responsive~. Still have some work to do to make it legit responsive though.
